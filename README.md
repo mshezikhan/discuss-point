@@ -11,12 +11,6 @@ It's a space where you can ask questions, share your knowledge, and connect with
 
 ---
 
-## 🌐 Live Website
-
-🔗 https://discuss-point.onrender.com/
-
----
-
 ## 🚀 Features
 
 ❓ Ask and Answer – Easily post your questions or provide answers on a variety of topics.
